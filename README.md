@@ -38,3 +38,4 @@ surread is a tool for comprehensive reading. it features:
 - server (graphql based?)
 - api
 - client (react-native, react-native-web, react-native-windows, react-native-macos)
+- webext
