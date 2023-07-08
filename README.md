@@ -18,17 +18,23 @@ surread is a tool for comprehensive reading. it features:
 - Save URL with Share... option
 - Save URL via WebExtension
 
-## Recommendation
+### Recommendation
 
 - Based on tags
   - Tags automatically analyzed based on the post's title and main text
 - Choose action: Read / Postpone / Delete
 
-## Read
+### Read
 
-## Knowledge Management
+### Knowledge Management
 
-## Sharing
+### Sharing
 
 - Newsletter
 - RSS, Webhook, etc
+
+## Project Structure
+
+- server (graphql based?)
+- api
+- client (react-native, react-native-web, react-native-windows, react-native-macos)
